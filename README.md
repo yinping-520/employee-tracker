@@ -24,8 +24,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 ### link to a walkthrough video & Git repository.
 [GitHub Repository](https://github.com/yinping-520/employee-tracker)
 
-[table displaying walkthrough video](https://watch.screencastify.com/v/qH2DoUBgJwFAFscy7NyV)
+[Table displaying walkthrough video](https://watch.screencastify.com/v/qH2DoUBgJwFAFscy7NyV)
 
-[adding data walkthrough video](https://watch.screencastify.com/v/wYlne0LoSUCM67yEcPao)
+[Adding data walkthrough video](https://watch.screencastify.com/v/wYlne0LoSUCM67yEcPao)
 
 [Technical Acceptance walkthrough video](https://watch.screencastify.com/v/GOxjfyRXVhCFMoR66axv)s
